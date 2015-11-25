@@ -14,7 +14,7 @@ Please read the license file committed with the project.
 
 ## Usage
 Please just run the .NET solution in visual studio and run. Should be easy to use from there on:
-### 1- First you can create an initial diacritisation options using Buckwalter morphological analyser.
-### 2- You can then Find the most likely sequence of POS tags using POS ngrams.
-### 3- Disambiguate the diacritisation options from stage 1 using the POS tags from stage 2.
-### 4- Diacritise the rest of the letter by simple diacritics ngrams.
+- 1- First you can create an initial diacritisation options using Buckwalter morphological analyser.
+- 2- You can then Find the most likely sequence of POS tags using POS ngrams.
+- 3- Disambiguate the diacritisation options from stage 1 using the POS tags from stage 2.
+- 4- Diacritise the rest of the letter by simple diacritics ngrams.
