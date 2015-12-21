@@ -1,0 +1,1 @@
+Perl.exe "aramorph.pl" < "temp.txt" > "temp1.txt"

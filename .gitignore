@@ -182,3 +182,32 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+FinalDiacritiser/bin/Debug/FinalDiacritiser.exe
+FinalDiacritiser/bin/Debug/FinalDiacritiser.vshost.exe
+FinalDiacritiser/bin/Debug/FinalDiacritiser.vshost.exe.manifest
+FinalDiacritiser/bin/Debug/cmd.exe
+FinalDiacritiser/bin/Debug/Buckwalter/buckwalter_morphan_1/data/cmd.exe
+FinalDiacritiser/bin/Release/cmd.exe
+FinalDiacritiser/bin/Release/temp.txt
+FinalDiacritiser/bin/Release/temp1
+FinalDiacritiser/bin/Release/temp1.txt
+FinalDiacritiser/bin/Release/temp1.txtr
+FinalDiacritiser/bin/Release/temp2
+FinalDiacritiser/bin/Release/temp2.txt
+FinalDiacritiser/bin/Release/tester.txt
+FinalDiacritiser/bin/Release/Buckwalter/buckwalter_morphan_1/data/cmd.exe
+FinalDiacritiser/obj/x86/Debug/FinalDiacritiser.Form1.resources
+FinalDiacritiser/obj/x86/Debug/FinalDiacritiser.Properties.Resources.resources
+FinalDiacritiser/obj/x86/Debug/FinalDiacritiser.csproj.FileListAbsolute.txt
+FinalDiacritiser/obj/x86/Debug/FinalDiacritiser.exe
+FinalDiacritiser/obj/x86/Debug/GenerateResource.read.1.tlog
+FinalDiacritiser/obj/x86/Debug/GenerateResource.write.1.tlog
+FinalDiacritiser/obj/x86/Release/FinalDiacritiser.Form1.resources
+FinalDiacritiser/obj/x86/Release/FinalDiacritiser.Properties.Resources.resources
+FinalDiacritiser/obj/x86/Release/FinalDiacritiser.csproj.FileListAbsolute.txt
+FinalDiacritiser/obj/x86/Release/FinalDiacritiser.exe
+FinalDiacritiser/obj/x86/Release/GenerateResource.read.1.tlog
+FinalDiacritiser/obj/x86/Release/GenerateResource.write.1.tlog
+FinalDiacritiser/bin/Release/FinalDiacritiser.exe
+FinalDiacritiser/bin/Release/FinalDiacritiser.vshost.exe
+FinalDiacritiser/bin/Release/FinalDiacritiser.vshost.exe.manifest

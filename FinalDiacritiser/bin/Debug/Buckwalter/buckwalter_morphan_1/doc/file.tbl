@@ -1,0 +1,13 @@
+# Buckwalter Arabic Morphological Analyzer Version 1.0 contains the following files:
+#
+data/aramorph.pl
+data/dictprefixes
+data/dictstems
+data/dictsuffixes
+data/tableab
+data/tableac
+data/tablebc
+doc/file.tbl
+doc/readme.txt
+gpl.txt
+index.html

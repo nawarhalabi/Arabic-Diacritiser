@@ -1,0 +1,1 @@
+perl.exe aramorphWithTags.pl <%1> %2
